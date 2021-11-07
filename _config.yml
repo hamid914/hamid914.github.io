@@ -1,0 +1,8 @@
+title: Hamid914.GitHub.io
+description: Home page of my GitHub
+google_analytics: UA-39724426-3
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
